@@ -23,11 +23,11 @@ def step_impl(context):
 
 
 
-# @given(u'The product apple')
-# def step_impl(context):
-#     print('Given The product apple')
-#
-#
+@given(u'The product apple')
+def step_impl(context):
+    print('Given The product apple')
+
+
 # @when(u'In the location here')
 # def step_impl(context):
 #     print('When In the location here')
