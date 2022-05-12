@@ -22,42 +22,43 @@ def step_impl(context):
 
 
 
-
 @given(u'The product apple')
 def step_impl(context):
     print('Given The product apple')
 
 
-# @when(u'In the location here')
-# def step_impl(context):
-#     print('When In the location here')
-#
-#
-# @when(u'Buy more fruits')
-# def step_impl(context):
-#     print('When Buy more fruits')
-#
-#
-# @then(u'I will enjoy apple')
-# def step_impl(context):
-#     print('Then I will enjoy apple')
-#
-#
-# @given(u'The product juice')
-# def step_impl(context):
-#     print('Given The product juice')
-#
-#
-# @when(u'In the location town')
-# def step_impl(context):
-#     print('When In the location town')
-#
-#
-# @when(u'Buy more this')
-# def step_impl(context):
-#     print('When Buy more this')
-#
-#
-# @then(u'I will enjoy juice')
-# def step_impl(context):
-#     print('Then I will enjoy juice')
+@when(u'In the location here')
+def step_impl(context):
+    print('When In the location here')
+
+
+@when(u'Buy more fruits')
+def step_impl(context):
+    print('When Buy more fruits')
+
+
+@then(u'I will enjoy apple')
+def step_impl(context):
+    print('Then I will enjoy apple')
+
+
+@given(u'The product juice')
+def step_impl(context):
+    print('Given The product juice')
+
+
+@when(u'In the location town')
+def step_impl(context):
+    print('When In the location town')
+
+@when(u'Buy more this')
+ def step_impl(context):
+    print('When Buy more this')
+
+
+@then(u'I will enjoy juice')
+def step_impl(context):
+     print('Then I will enjoy juice')
+     
+     
+     
