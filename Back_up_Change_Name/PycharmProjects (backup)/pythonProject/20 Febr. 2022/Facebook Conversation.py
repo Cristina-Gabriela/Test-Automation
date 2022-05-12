@@ -1,1 +1,0 @@
-What do you think that is the best job for 2022 ?

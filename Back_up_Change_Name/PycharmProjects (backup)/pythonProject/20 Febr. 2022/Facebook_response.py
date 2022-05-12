@@ -1,1 +1,0 @@
-I think that Automation is. And all the jobs related to IT (Telecommunication, also). Did you think the same?
