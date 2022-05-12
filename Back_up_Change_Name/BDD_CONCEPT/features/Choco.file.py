@@ -52,13 +52,13 @@ def step_impl(context):
     print('When In the location town')
 
 @when(u'Buy more this')
- def step_impl(context):
+def step_impl(context):
     print('When Buy more this')
 
 
 @then(u'I will enjoy juice')
 def step_impl(context):
-     print('Then I will enjoy juice')
+    print('Then I will enjoy juice')
      
      
      
