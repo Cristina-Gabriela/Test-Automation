@@ -1,0 +1,1 @@
+# Cum punem 5G intr-o clasa (ca si denumire?)

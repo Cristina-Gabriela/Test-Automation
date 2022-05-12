@@ -1,0 +1,28 @@
+In this article,
+we are going to
+learn about 4 Ways
+to Convert text file
+to dictionary in Python.
+This is a very helpful
+exercise for programmers
+who works with data files.
+As a Data Analyst or Data
+scientist when we have huge
+data in files then we
+need to convert that
+data into python objects.
+This conversion helps
+us in handling the
+data in an organized manner.
+
+We will learn about
+one of the use cases
+where we will be
+converting the
+text file data
+to a Python
+dictionary object.
+To understand this,
+We will take a sample
+text file and will read the content,
+and load it in the Python dictionary.
