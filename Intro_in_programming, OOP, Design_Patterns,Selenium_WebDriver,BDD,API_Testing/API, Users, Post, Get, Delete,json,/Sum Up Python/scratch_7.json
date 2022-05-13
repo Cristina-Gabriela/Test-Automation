@@ -1,0 +1,23 @@
+{
+  "args": {},
+  "data": "{\n    \"name\": \"Maria\",\n    \"age\": \"31\",\n    \"lastname\": \"chbdjabo\",\n    \"email\": \"nume.dcbsihcfbd@gmail.com\"\n}",
+  "files": {},
+  "form": {},
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "110",
+    "Content-Type": "text/plain",
+    "Host": "httpbin.org",
+    "User-Agent": "python-requests/2.27.1",
+    "X-Amzn-Trace-Id": "Root=1-627ea549-2d5cd493657ed1ac726d7ce5"
+  },
+  "json": {
+    "age": "31",
+    "email": "nume.dcbsihcfbd@gmail.com",
+    "lastname": "chbdjabo",
+    "name": "Maria"
+  },
+  "origin": "78.96.80.18",
+  "url": "http://httpbin.org/delete"
+}
